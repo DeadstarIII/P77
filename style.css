@@ -1,0 +1,14 @@
+html{
+    scroll-behavior: smooth;
+   
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #BF7EA3, #C2D84D);
+}
+.first-div{
+    margin-top:140px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-weight: 150;
+    
+}

@@ -1,0 +1,12 @@
+var my_first_console_project="My first console project";
+var first_name="Ranbir";
+var last_name="Kapoor";
+var full_name=first_name+' '+last_name;
+var num0=10;
+var num1=5;
+console.log(my_first_console_project);
+console.log(full_name);
+console.log(num0+num1);
+console.log(num0);
+console.log(num0*num1);
+console.log(10/2);
